@@ -1,0 +1,39 @@
+section#about::before{
+    content: "";
+    position: absolute;
+    height: 378px;
+    width: 100%;
+    background: url("176849.jpg")no-repeat center center/cover;
+opacity: 0.7;
+z-index: -1;
+}
+
+center.not{
+    flex-direction: column;
+}
+center.by{
+    flex-direction: column;
+    margin-top: 200px;
+
+}
+div.name{
+    width: 300px;
+}
+div#type2{
+    margin-top: 20px;
+}
+div#type3{
+    margin-top: 20px;
+}
+div#type16{
+    margin-top: 20px;
+}
+div#type15{
+    margin-top: 20px;
+}
+div#type13{
+    margin-top: 20px;
+}
+div#type12{
+    margin-top: 20px;
+}
